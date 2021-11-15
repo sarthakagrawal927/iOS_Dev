@@ -1,0 +1,3 @@
+[submodule "app-development-with-swift"]
+	path = app-development-with-swift
+	url = https://github.com/mwesterby/app-development-with-swift.git
